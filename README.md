@@ -1,4 +1,6 @@
 # Python Developer Assessment
+ This repository is for my developer assessment tasks.
+ 
 def calculate_area ( length , width ):
     result = length * width
     if result > 100: print ( "Large area!" )
