@@ -1,4 +1,9 @@
 # Python Developer Assessment
+ task-1.2-git-basics
+ This repository is for my developer assessment tasks.
+ 
+
+
 
 ## Project Overview
 This repository contains my solutions for the Python Developer Assessment tasks.  
@@ -54,3 +59,4 @@ Interacting with APIs using Python and understanding how data is retrieved from 
 
 What I Learned:
 I improved my Git workflow, debugging skills, and understanding of clean Python code practices.
+
